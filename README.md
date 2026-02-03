@@ -1,3 +1,5 @@
+<img width="1410" height="934" alt="Ekran görüntüsü 2026-01-31 182602" src="https://github.com/user-attachments/assets/13128009-6c19-4393-ad30-86a67e41a7d7" />
+
 <img src="https://i.imgur.com/gtxPU4S.png" width="128">
 
 # TabTPS
